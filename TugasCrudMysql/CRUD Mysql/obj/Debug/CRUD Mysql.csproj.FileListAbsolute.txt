@@ -1,0 +1,25 @@
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\bin\Debug\CRUD Mysql.exe.config
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\bin\Debug\CRUD Mysql.exe
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\bin\Debug\CRUD Mysql.pdb
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD Mysql.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD Mysql.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Info.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Properties.Resources.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD Mysql.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD Mysql.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD Mysql.exe
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD Mysql.pdb
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Register.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD Mysql.csproj.CopyComplete
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.HomePage.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.KategoriBuku.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.AddKategoriBuku.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.FormPegawai.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Pegawai.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.InvBuku.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.FormInvBuku.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\bin\Debug\CRUD Mysql.exe.manifest
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\bin\Debug\CRUD Mysql.application
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD Mysql.exe.manifest
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD Mysql.application

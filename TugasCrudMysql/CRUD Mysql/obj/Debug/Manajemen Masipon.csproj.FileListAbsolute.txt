@@ -1,0 +1,44 @@
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe.config
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe.manifest
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.application
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.pdb
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\Manajemen Masipon.csproj.AssemblyReference.cache
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\Manajemen Masipon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\CRUD_Mysql.AddKategoriElektronik.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\CRUD_Mysql.FormInvElektronik.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\CRUD_Mysql.FormPegawai.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\CRUD_Mysql.HomePage.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\CRUD_Mysql.InvElektronik.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\CRUD_Mysql.KategoriElektronik.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\CRUD_Mysql.Pegawai.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\CRUD_Mysql.Properties.Resources.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\Manajemen Masipon.csproj.GenerateResource.cache
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\Manajemen Masipon.csproj.CoreCompileInputs.cache
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.exe.manifest
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.application
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\Manajemen Masipon.csproj.CopyComplete
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.exe
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudBuVeny\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.pdb
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe.config
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe.manifest
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.application
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.pdb
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\Manajemen Masipon.csproj.AssemblyReference.cache
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\Manajemen Masipon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\CRUD_Mysql.AddKategoriElektronik.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\CRUD_Mysql.FormInvElektronik.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\CRUD_Mysql.FormPegawai.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\CRUD_Mysql.HomePage.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\CRUD_Mysql.InvElektronik.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\CRUD_Mysql.KategoriElektronik.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Pegawai.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Properties.Resources.resources
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\Manajemen Masipon.csproj.GenerateResource.cache
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\Manajemen Masipon.csproj.CoreCompileInputs.cache
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.exe.manifest
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.application
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\Manajemen Masipon.csproj.CopyComplete
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.exe
+C:\Users\Faiq\Documents\tugasbuveni\TugasCrudMysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.pdb
